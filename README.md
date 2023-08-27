@@ -1,6 +1,6 @@
 # bwa_cozy
 
-A new Flutter project.
+Aplikasi pencari kos-kosan.
 
 ## Getting Started
 
